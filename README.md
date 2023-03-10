@@ -4,10 +4,10 @@ This is a repo that contains a list of design patterns and their simple explanat
 
 ## Creational Patterns
 
-- [Abstract Factory](creational/abstract-factory/README.md) *Currently work in progress*  
-- [Builder](creational/builder/README.md) *Currently work in progress*  
-- [Dependency Injection](creational/dependency-injection/README.md) *Currently work in progress*  
-- [Factory Method](creational/factory-method/README.md) *Currently work in progress*  
+- [Abstract Factory](creational/abstract-factory/README.md)  
+- [Builder](creational/builder/README.md)  
+- [Dependency Injection](creational/dependency-injection/README.md)  
+- [Factory Method](creational/factory-method/README.md)  
 - [Lazy Initialization](creational/lazy-initialization/README.md) *Currently work in progress*  
 - [Multition](creational/multition/README.md) *Currently work in progress*  
 - [Object Pool](creational/object-pool/README.md) *Currently work in progress*  
@@ -17,13 +17,13 @@ This is a repo that contains a list of design patterns and their simple explanat
 
 ## Structural Patterns
 
-- [Adapter](structural/adapter/README.md) *Currently work in progress*  
-- [Bridge](structural/bridge/README.md) *Currently work in progress*  
+- [Adapter](structural/adapter/README.md)  
+- [Bridge](structural/bridge/README.md)  
 - [Composite](structural/composite/README.md) *Currently work in progress*  
-- [Decorator](structural/decorator/README.md) *Currently work in progress*  
+- [Decorator](structural/decorator/README.md)  
 - [Delegation](structural/delegation/README.md) *Currently work in progress*  
 - [Extension Object](structural/extension-object/README.md) *Currently work in progress*  
-- [Facade](structural/facade/README.md) *Currently work in progress*  
+- [Facade](structural/facade/README.md)  
 - [Flyweight](structural/flyweight/README.md) *Currently work in progress*  
 - [Front Controller](structural/front-controller/README.md) *Currently work in progress*  
 - [Marker](structural/marker/README.md) *Currently work in progress*  
@@ -34,14 +34,14 @@ This is a repo that contains a list of design patterns and their simple explanat
 ## Behavioral Patterns
 
 - [Blackboard](behavioral/blackboard/README.md) *Currently work in progress*  
-- [Chain of Responsibility](behavioral/chain-of-responsibility/README.md) *Currently work in progress*  
+- [Chain of Responsibility](behavioral/chain-of-responsibility/README.md)  
 - [Command](behavioral/command/README.md) *Currently work in progress*  
-- [Interpreter](behavioral/interpreter/README.md) *Currently work in progress*  
-- [Iterator](behavioral/iterator/README.md) *Currently work in progress*  
+- [Interpreter](behavioral/interpreter/README.md)  
+- [Iterator](behavioral/iterator/README.md)  
 - [Mediator](behavioral/mediator/README.md) *Currently work in progress*  
 - [Memento](behavioral/memento/README.md) *Currently work in progress*  
 - [Null Object](behavioral/null-object/README.md) *Currently work in progress*  
-- [Observer](behavioral/observer/README.md) *Currently work in progress*  
+- [Observer](behavioral/observer/README.md)  
 - [Servant](behavioral/servant/README.md) *Currently work in progress*  
 - [Specification](behavioral/specification/README.md) *Currently work in progress*  
 - [State](behavioral/state/README.md) *Currently work in progress*  
